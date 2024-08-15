@@ -1,7 +1,7 @@
 {
-    "device1_iphone13": ["dt",1,12,2,7],
-    "device2_iphone7":  ["dt",1,12,2,7],
-    "device3_ipad":     ["dt",1,12,2,7],
-    "device4_le":       ["dt",1,12,2,7],
-    "device5_qian":     ["dt",1,12,2,7]
+    "device1_iphone13": [{court: "dt","court_id": 1,"start_time": 12,"duration": 2,"day_offset": 7}],
+    "device2_iphone7":  [{court: "dt","court_id": 1,"start_time": 12,"duration": 2,"day_offset": 7}],
+    "device3_ipad":     [{court: "dt","court_id": 1,"start_time": 12,"duration": 2,"day_offset": 7}],
+    "device4_le":       [{court: "dt","court_id": 1,"start_time": 12,"duration": 2,"day_offset": 7}],
+    "device5_qian":     [{court: "dt","court_id": 1,"start_time": 12,"duration": 2,"day_offset": 7}]
 }
