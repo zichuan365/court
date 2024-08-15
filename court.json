@@ -1,7 +1,49 @@
 {
-["device":"device_1_iphone13","court": "dt","court_id": 1,"start_time": 12,"duration": 2,"day_offset": 7,"token_id":"vhpnVsj6jieiekqTUJ9pp0k3jZNpaBmjm/EBmTRW0MlVafQ0Bjjoyet252QbMCjYfmiNmP0MaPbThHlCwtnWbroXFdS7+sgRmpYvJiAFfsY","contact_id":"20231006083104039382613261600094"],
-["device":"device_2_iphone7", "court": "dt","court_id": 1,"start_time": 12,"duration": 2,"day_offset": 7,"token_id":"bd++IhsaQOtDdsqeqbw3D3gA+uGXY1pvmt8nRXCEt/xJ0S/sx9Fhk/uL61ykvYjEZC8eUQqIgweFLhwc/dr1sd9kzSDpDzLC0u1WZOvROzw","contact_id":"20240503182805104536721261482169"],
-["device":"device_3_ipad",    "court": "dt","court_id": 1,"start_time": 12,"duration": 2,"day_offset": 7,"token_id":"RrnAsUL8Jae0M892MEsGVGhY/PSNV26pjz2BL8zf+EpQK154DDf+0vLyUL4mChokYfni6ry1n/Zggv6OmQjzkbyPFA7kOudyA5AXWwIEjBk","contact_id":"20240718224106470372104261600591"],
-["device":"device_4_le",      "court": "dt","court_id": 1,"start_time": 12,"duration": 2,"day_offset": 7,"token_id":"B/1QPxWvmOEdIw/ahHHz4w0ph5e6noTd6/6oolJ+MIZxZd2JubPH1fyaQCWc8rERYHvIzyka9xZZMiUQLV6YHqRMMoe0gWRowrSQR4AREio","contact_id":"20240622082506909033909261501657"],
-["device":"device_5_qian",    "court": "dt","court_id": 1,"start_time": 12,"duration": 2,"day_offset": 7,"token_id":"7b4Eozng5zb3WsV2u7kl/L24OUs93kJyI3ZLEQjX1FCVjfBywsL8fJdFH+eYnfZAq/DQiBhQh2M+KNEYY4ehn5/b1znvovJcONbQAPdA8SE","contact_id":"20230614214621618000251261480981"]
+    "device_list": [{
+            "device": "device_1_iphone13",
+            "court": "dt",
+            "court_id": 1,
+            "start_time": 12,
+            "duration": 2,
+            "day_offset": 7,
+            "token_id": "vhpnVsj6jieiekqTUJ9pp0k3jZNpaBmjm/EBmTRW0MlVafQ0Bjjoyet252QbMCjYfmiNmP0MaPbThHlCwtnWbroXFdS7+sgRmpYvJiAFfsY",
+            "contact_id": "20231006083104039382613261600094"
+        }, {
+            "device": "device_2_iphone7",
+            "court": "dt",
+            "court_id": 1,
+            "start_time": 12,
+            "duration": 2,
+            "day_offset": 7,
+            "token_id": "bd++IhsaQOtDdsqeqbw3D3gA+uGXY1pvmt8nRXCEt/xJ0S/sx9Fhk/uL61ykvYjEZC8eUQqIgweFLhwc/dr1sd9kzSDpDzLC0u1WZOvROzw",
+            "contact_id": "20240503182805104536721261482169"
+        }, {
+            "device": "device_3_ipad",
+            "court": "dt",
+            "court_id": 1,
+            "start_time": 12,
+            "duration": 2,
+            "day_offset": 7,
+            "token_id": "RrnAsUL8Jae0M892MEsGVGhY/PSNV26pjz2BL8zf+EpQK154DDf+0vLyUL4mChokYfni6ry1n/Zggv6OmQjzkbyPFA7kOudyA5AXWwIEjBk",
+            "contact_id": "20240718224106470372104261600591"
+        }, {
+            "device": "device_4_le",
+            "court": "dt",
+            "court_id": 1,
+            "start_time": 12,
+            "duration": 2,
+            "day_offset": 7,
+            "token_id": "B/1QPxWvmOEdIw/ahHHz4w0ph5e6noTd6/6oolJ+MIZxZd2JubPH1fyaQCWc8rERYHvIzyka9xZZMiUQLV6YHqRMMoe0gWRowrSQR4AREio",
+            "contact_id": "20240622082506909033909261501657"
+        }, {
+            "device": "device_5_qian",
+            "court": "dt",
+            "court_id": 1,
+            "start_time": 12,
+            "duration": 2,
+            "day_offset": 7,
+            "token_id": "7b4Eozng5zb3WsV2u7kl/L24OUs93kJyI3ZLEQjX1FCVjfBywsL8fJdFH+eYnfZAq/DQiBhQh2M+KNEYY4ehn5/b1znvovJcONbQAPdA8SE",
+            "contact_id": "20230614214621618000251261480981"
+        }
+    ]
 }
